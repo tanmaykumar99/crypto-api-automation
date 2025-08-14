@@ -45,7 +45,7 @@ The notebook generates plots showing crypto price trends and summary tables of A
 
 ![Example Output](images/Hyperliquid_data.png)
 
-![Example Output](images/Hyperliquid_trends.png)
+![Example Output](images/Hyperliquid_Trends.png)
 
 
 
