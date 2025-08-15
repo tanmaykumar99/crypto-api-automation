@@ -37,15 +37,15 @@ You also need:
 ## Example Output
 The notebook generates plots showing crypto price trends and summary tables of API data.
 
-![Example Output](images/API_Calls.png)
+![API Calls](images/API_Calls.png)
 
-![Example Output](images/df.png)
+![Pandas Dataframe](images/df.png)
 
-![Example Output](images/df_visualization.png)
+![Currency Vis](images/df_visualization.png)
 
-![Example Output](images/Hyperliquid_data.png)
+![Extracted Hyperliquid](images/Hyperliquid_data.png)
 
-![Example Output](images/Hyperliquid_Trends.png)
+![Single Currency Trends](images/Hyperliquid_Trends.png)
 
 
 
